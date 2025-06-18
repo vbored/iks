@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/hackintosh-efi-folders/</loc>
+    <loc>https://ikip.im/posts/hackintosh-efi-folders/</loc>
     <lastmod>2025-06-18T09:30:39+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ikip.im/</loc>
     <lastmod>2025-06-18T09:30:39+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://ikip.im/posts/</loc>
     <lastmod>2025-06-18T09:30:39+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ikip.im/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ikip.im/tags/</loc>
   </url>
 </urlset>
