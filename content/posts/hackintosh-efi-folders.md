@@ -92,5 +92,6 @@ IGPU Users: Refer to THIS GUIDE for video patching information.
 + Chipset Series 10, 20 (Skylake/Kaby Lake): [Download HERE](https://olarila.com/files/OPENCORE1/EFI.OpenCore.Desktop.Bulldozer.Jaguar.Ryzen.Threadripper.zip)
 + Chipset Series 30 (Coffee Lake/Whiskey Lake/Comet Lake): [Download HERE](https://olarila.com/files/OPENCORE1/EFI.OpenCore.Desktop.Bulldozer.Jaguar.Ryzen.Threadripper.zip)
 + Ice Lake: [Download HERE](https://olarila.com/files/OPENCORE1/EFI.OpenCore.Desktop.Bulldozer.Jaguar.Ryzen.Threadripper.zip)
+
 **Credits**
 Special thanks to the Olarila.com, Clover Team, OpenCore Team, AMD Team, Mieze, and many others for their contributions!
