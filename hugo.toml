@@ -1,0 +1,4 @@
+baseURL = 'https://ikip.im/'
+languageCode = 'en-us'
+title = 'ikip'
+theme= 'PaperMod'
